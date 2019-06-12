@@ -1,7 +1,7 @@
 # dataViz
 Vizualizace dat #dataViz v #Python (knihovny, ukázky kódu)
 
-<pyviz.org>
+<http://pyviz.org>
 
 panel <https://panel.pyviz.org/>
 
